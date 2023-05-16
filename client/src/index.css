@@ -1,0 +1,29 @@
+:root {
+  --color-gray: gray;
+  --color-gray-600: rgb(174, 174, 174);
+  --color-gray-700: rgb(198, 198, 198);
+  --color-gray-lighter: rgb(235, 235, 235);
+  --color-white: rgb(255, 255, 255);
+  --color-blue-navy: rgb(8, 76, 140);
+  --color-blue-navy-500: rgb(15, 135, 248);
+  --color-blue-light: rgb(80, 170, 253);
+  --color-black: black;
+}
+* {
+  margin: 0;
+}
+ul {
+  list-style: none;
+}
+a {
+  cursor: pointer;
+}
+img {
+  width: 100%;
+  height: auto;
+}
+input {
+  border: none;
+  outline: none;
+}
+
